@@ -6,6 +6,9 @@
 An **end-to-end machine learning project** to predict house prices from structured/tabular features (location, size, rooms, age, amenities, etc.).
 Covers the full workflow: **EDA, feature engineering, model training with cross-validation, hyperparameter tuning, and deployable inference pipelines.**
 
+
+https://colab.research.google.com/drive/1YFSkEzoJXTm3GEn3CZ6MUcg2kJktAHHc
+
 ---
 
 ## ✨ Key Highlights
